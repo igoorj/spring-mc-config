@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+api:
+  description: "Emprestimo API"
+  author: "Igor Goncalvess"
+  date: "2024-12-14"
+  environment: "Prod"

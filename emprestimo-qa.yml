@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+api:
+  description: "Emprestimo API"
+  author: "Igor Goncalves"
+  date: "2024-12-14"
+  environment: "QA"
